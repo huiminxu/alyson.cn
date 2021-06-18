@@ -3,7 +3,7 @@ name: Test build and deploy site
 on:
   push:
     branches: 
-      - master
+      - main
 
 jobs:
   CI_CD:
