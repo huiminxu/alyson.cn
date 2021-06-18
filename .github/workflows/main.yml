@@ -24,4 +24,5 @@ jobs:
           local_path: './build/*'  # 对应我们项目build的文件夹路径
           remote_path: '/home/ubuntu/alyson'
           
+          
 
